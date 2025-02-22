@@ -21,11 +21,11 @@ This project uses **YOLOv3 (You Only Look Once)** for **real-time license plate 
 
 ### YOLOv3 Configuration Files:
 
-darknet-yolov3.cfg → Model configuration file
-classes.names → List of class labels
-lapi.weights → Pre-trained YOLOv3 model (Download separately)
+darknet-yolov3.cfg → Model configuration file\
+classes.names → List of class labels\
+lapi.weights → Pre-trained YOLOv3 model (Download separately)\
 
 ### Parameters:
 
-confThreshold → Set confidence threshold for object detection (default: 0.5)
-nmsThreshold → Set Non-Maximum Suppression (default: 0.4)
+confThreshold → Set confidence threshold for object detection (default: 0.5)\
+nmsThreshold → Set Non-Maximum Suppression (default: 0.4)\
